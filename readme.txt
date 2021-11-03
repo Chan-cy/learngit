@@ -4,3 +4,4 @@ git has a mutable index called stage
 git add 1
 git add 2
 git add 3
+git add 4
