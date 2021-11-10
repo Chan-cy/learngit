@@ -6,8 +6,4 @@ git add 2
 git add 3
 git add 4
 git add 5
-&
-<<<<<<< HEAD
-a new branch
->>>>>>> feature1
-
+w
